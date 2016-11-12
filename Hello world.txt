@@ -1,4 +1,8 @@
+print("Hello world");
+print(;);
+print('Hello Alexey;');
+print('Hello friends;');
 print("Hello world;");
 print(;);
 print('Hello Alexey;');
-print('AAAA');
+print('AAAA;');
